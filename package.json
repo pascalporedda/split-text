@@ -1,0 +1,25 @@
+{
+  "name": "split-text",
+  "version": "1.0.0",
+  "description": "Splits an element into several elements so you can easily animate them with VelocityJS or GSAP.",
+  "main": "split-text.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "split",
+    "text",
+    "text",
+    "animation",
+    "gsap",
+    "splitter",
+    "delimiter",
+    "anim"
+  ],
+  "author": "Pascal Poredda <me@pascal-poredda.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
